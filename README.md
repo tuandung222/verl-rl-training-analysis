@@ -33,6 +33,22 @@ Repository này dành cho người mới học RL training cho LLM, đặc biệ
 6. [LLM Planning & Orchestration](./docs/06-planning-orchestration.md)
 7. [Learning Path 30 ngày](./docs/07-learning-path.md)
 8. [Tài nguyên upstream](./references/upstream-links.md)
+9. [External Framework Links](./references/external-frameworks-links.md)
+
+10. [Training Config Deep Dive](./docs/08-training-config-deep-dive.md)
+11. [Architecture vs Ecosystem](./docs/09-architecture-vs-ecosystem.md)
+12. [RL Framework Blueprint](./docs/10-rl-framework-blueprint.md)
+13. [LLaMA-Factory Tool-Calling RL Checklist](./docs/11-llamafactory-toolcalling-rl-checklist.md)
+14. [Example: Qwen + PPO Tool-Calling Multiturn](./docs/12-example-qwen-ppo-toolcalling-multiturn.md)
+15. [Example: Gemma + DPO Tool-Calling Multiturn](./docs/13-example-gemma-dpo-toolcalling-multiturn.md)
+16. [Example: GPT-OSS + GRPO Tool-Calling Multiturn](./docs/14-example-gpt-oss-grpo-toolcalling-multiturn.md)
+17. [PPO from verl code](./docs/15-algo-ppo-from-verl-code.md)
+18. [GRPO from verl code](./docs/16-algo-grpo-from-verl-code.md)
+19. [DPO & KTO in verl ecosystem](./docs/17-algo-dpo-kto-from-verl-ecosystem.md)
+20. [ORPO in verl ecosystem](./docs/18-algo-orpo-from-verl-ecosystem.md)
+21. [Supported RL Algorithms Map](./docs/19-supported-rl-algorithms-map.md)
+22. [Jupyter Inspection Workflow](./docs/20-jupyter-inspection-workflow.md)
+
 
 ## Đối tượng đọc
 
