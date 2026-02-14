@@ -63,3 +63,32 @@ Repository này dành cho người mới học RL training cho LLM, đặc biệ
   - Kiến trúc: `docs/01-architecture-map.md`
   - Vận hành thực tế: `docs/05-operational-playbook.md`
   - Agentic RL: `docs/06-planning-orchestration.md`
+
+## Note Nhanh: Nguồn tham khảo `verl` trên mạng
+
+### Official (ưu tiên đọc trước)
+
+- Docs: https://verl.readthedocs.io/en/latest/
+- Repo: https://github.com/verl-project/verl
+- Recipe: https://github.com/verl-project/verl-recipe
+- Quickstart: https://verl.readthedocs.io/en/latest/start/quickstart.html
+- Config explanation: https://verl.readthedocs.io/en/latest/examples/config.html
+- Ray trainer internals: https://verl.readthedocs.io/en/latest/workers/ray_trainer.html
+- Multi-turn/tool-calling: https://verl.readthedocs.io/en/latest/sglang_multiturn/multiturn.html
+- Agentic RL: https://verl.readthedocs.io/en/latest/start/agentic_rl.html
+- Perf tuning: https://verl.readthedocs.io/en/latest/perf/perf_tuning.html
+
+### Community (đáng tham khảo)
+
+- Awesome ML Sys Tutorial (verl): https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial/tree/main/rlhf/verl
+- Multi-turn code walkthrough (EN): https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial/blob/main/rlhf/verl/multi-turn/code-walk-through/readme_EN.md
+- `verl` deep note: https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial/blob/main/rlhf/verl/readme.md
+- Memory optimization write-up: https://hebiao064.github.io/rl-memory-management
+
+### Infra/Deployment references
+
+- SkyPilot example: https://docs.skypilot.co/en/latest/examples/training/verl.html
+- CoreWeave SUNK tutorial: https://docs.coreweave.com/products/sunk/tutorials/verl-on-sunk
+- SageMaker community post: https://medium.com/@kaige.yang0110/run-verl-on-sagemaker-using-4x8-l40s-gpus-8e6d5c3c61d3
+- AMD ROCm blog: https://rocm.blogs.amd.com/artificial-intelligence/verl-large-scale/README.html
+
