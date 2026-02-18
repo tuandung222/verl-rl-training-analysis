@@ -92,3 +92,9 @@ Repository này dành cho người mới học RL training cho LLM, đặc biệ
 - SageMaker community post: https://medium.com/@kaige.yang0110/run-verl-on-sagemaker-using-4x8-l40s-gpus-8e6d5c3c61d3
 - AMD ROCm blog: https://rocm.blogs.amd.com/artificial-intelligence/verl-large-scale/README.html
 
+## Series Mới: verl Agent Tool-Calling Multi-Turn
+
+- Tổng quan series: `docs/series-verl-agent-toolcalling-multiturn/README.md`
+- Prompt refined: `docs/series-verl-agent-toolcalling-multiturn/00-refined-prompt.md`
+- Bắt đầu từ: `docs/series-verl-agent-toolcalling-multiturn/01-problem-framing-and-system-design.md`
+
